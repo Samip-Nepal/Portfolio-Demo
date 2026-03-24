@@ -97,6 +97,26 @@
       "github": "",
       "featured": false,
       "experienceId": ""
+    },
+    {
+      "id": "25d287fe-8f98-4522-a455-622da737fd6b",
+      "title": "Portfolio Designer",
+      "shortDescription": "manages content of the portfolio",
+      "fullDescription": "made using flutter dart ",
+      "images": [
+        "assets/images/projects/1774375626094_scaled_1000059849.jpg"
+      ],
+      "technologies": [
+        "Flutter",
+        "Dart",
+        "Html",
+        "JavaScript",
+        "CSS"
+      ],
+      "liveDemo": "",
+      "github": "https://github.com/demonzkillertz/portfilio_maker",
+      "featured": true,
+      "experienceId": ""
     }
   ]
 }
