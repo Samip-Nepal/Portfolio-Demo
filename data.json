@@ -1,0 +1,87 @@
+{
+  "about": {
+    "name": "Sanjib Kasti",
+    "title": "Software Developer",
+    "tagline": "Engineer by profession and technological adventurer by nature",
+    "bio": "Passionate software developer with expertise in building modern web and mobile applications. I love turning ideas into reality through clean, efficient code.",
+    "email": "contact@sanjibkasti.com.np",
+    "location": "Nepal",
+    "resumeUrl": ""
+  },
+  "socialLinks": [
+    {
+      "platform": "github",
+      "url": "https://github.com/demonzkillertz",
+      "icon": "github"
+    },
+    {
+      "platform": "linkedin",
+      "url": "https://www.linkedin.com/in/sanjib-kasti/",
+      "icon": "linkedin"
+    },
+    {
+      "platform": "facebook",
+      "url": "https://www.facebook.com/sanjib.kasti.39",
+      "icon": "facebook"
+    }
+  ],
+  "education": [
+    {
+      "id": "edu-1",
+      "degree": "Bachelor in Computer Science",
+      "institution": "University Name",
+      "startYear": "2018",
+      "endYear": "2022",
+      "description": "Focused on software engineering, data structures, and algorithms."
+    }
+  ],
+  "certifications": [
+    {
+      "id": "cert-1",
+      "name": "Sample Certification",
+      "issuer": "Certification Authority",
+      "issueDate": "2023-06",
+      "expiryDate": "",
+      "credentialId": "ABC123",
+      "credentialUrl": "https://example.com/verify/ABC123"
+    }
+  ],
+  "experience": [
+    {
+      "id": "exp-1",
+      "title": "Software Developer",
+      "company": "Company Name",
+      "startDate": "2022-01",
+      "endDate": "Present",
+      "description": "Developing and maintaining web applications using modern technologies.",
+      "technologies": ["Flutter", "React", "Node.js", "TypeScript"],
+      "projectIds": ["proj-1"]
+    }
+  ],
+  "projects": [
+    {
+      "id": "proj-1",
+      "title": "Portfolio Website",
+      "shortDescription": "Personal portfolio showcasing my work and skills",
+      "fullDescription": "A modern, responsive portfolio website built with HTML, CSS, and JavaScript. Features dark/light theme support and dynamic content loading.",
+      "images": [],
+      "technologies": ["HTML", "CSS", "JavaScript"],
+      "liveDemo": "https://sanjibkasti.com.np",
+      "github": "https://github.com/demonzkillertz/Portfolio",
+      "featured": true,
+      "experienceId": "exp-1"
+    },
+    {
+      "id": "proj-2",
+      "title": "Sample Project",
+      "shortDescription": "A brief description of the project",
+      "fullDescription": "This is a detailed description of the sample project.",
+      "images": [],
+      "technologies": ["Flutter", "Firebase", "Dart"],
+      "liveDemo": "",
+      "github": "",
+      "featured": false,
+      "experienceId": ""
+    }
+  ]
+}
