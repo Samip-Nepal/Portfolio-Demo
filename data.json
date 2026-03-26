@@ -117,6 +117,20 @@
       "github": "https://github.com/demonzkillertz/portfilio_maker",
       "featured": true,
       "experienceId": ""
+    },
+    {
+      "id": "d43e8e4c-d645-4409-88b1-a79cb93c8571",
+      "title": "sod7ko",
+      "shortDescription": "shirt description ",
+      "fullDescription": "",
+      "images": [
+        "assets/images/projects/1774491401031_scaled_1000060243.jpg"
+      ],
+      "technologies": [],
+      "liveDemo": "",
+      "github": "",
+      "featured": false,
+      "experienceId": ""
     }
   ]
 }
